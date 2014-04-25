@@ -1,0 +1,2 @@
+Script modified from Rich Trouton's at https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts/safari_java_whitelist/safari_set_java_whitelist_at_login
+I've modified it to be scalable to be easier to add more servers.
